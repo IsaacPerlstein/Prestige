@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+table{
+  border-collapse: collapse;
+  width:10%;
+}
+
+.com_slct{
+  width:10%;
+  margin-left:40%;
+
+}
+
+table td{
+  border-top:black solid 1px;
+  border-bottom:black solid 1px
+}
+body{
+  
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.elementWidth{
+  width:150px;
+}
+
+.numberWidth{
+width:50px;
+}
+.App-link {
+  color: #09d3ac;
+}
+
+.slcWrapper{
+  padding-top:10px;
+  width:1000px;
+  margin: auto;
+}
+/*
+.slcWrapper select{
+  background-color: gray;
+  
+  color: black;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 5px;
+  font-size: 30px;
+}*/

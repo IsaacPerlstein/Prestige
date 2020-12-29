@@ -1,0 +1,13 @@
+[1mdiff --git a/my-app/src/App.js b/my-app/src/App.js[m
+[1mindex c880d1d..04c74c5 100644[m
+[1m--- a/my-app/src/App.js[m
+[1m+++ b/my-app/src/App.js[m
+[36m@@ -214,7 +214,7 @@[m [mexport default class App extends Component {[m
+   [m
+   render() {[m
+ [m
+[31m-console.log('hell')[m
+[32m+[m[32mconsole.log('helloooooo')[m
+ [m
+     return ([m
+       <>[m

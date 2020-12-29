@@ -214,7 +214,7 @@ export default class App extends Component {
   
   render() {
 
-console.log('hell')
+console.log('helll0000')
 
     return (
       <>
